@@ -1,1 +1,1 @@
-# e-daimler-test
+# e-codeowners-test
